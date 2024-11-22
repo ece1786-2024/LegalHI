@@ -1,0 +1,11 @@
+"State the background of the case in one paragraph in the following document."
+
+"Summarize the procedural history in two paragraphs in the following document."
+
+"State the court's decision and reasoning in one paragraph in the following document."
+
+"In one simple clause, write a concise headline that summarizes the court's decision in the following summary:"
+
+"In one simple sentence, write a concise legal statement that summarizes the central question in the following case summary:"
+
+"Combine the following pieces of text into a single cohesive passage. Ensure the flow is smooth and logical while keeping most of the original content unchanged. Edit only as needed for readability and natural transitions"

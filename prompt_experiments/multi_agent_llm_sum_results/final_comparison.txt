@@ -1,0 +1,7 @@
+ROUGE Scores:
+rouge1: Precision=0.679, Recall=0.678, F1-Score=0.679
+rouge2: Precision=0.396, Recall=0.395, F1-Score=0.395
+rougeL: Precision=0.352, Recall=0.351, F1-Score=0.352
+
+BERTScore:
+Precision=0.889, Recall=0.893, F1-Score=0.891
