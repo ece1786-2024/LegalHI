@@ -1,0 +1,27 @@
+**Case Summary: R. v. T.J.F., 2024 SCC 38**
+
+The Supreme Court of Canada allowed an appeal by the Crown, setting aside the acquittals of T.J.F. (the respondent) on charges of trafficking in persons and receiving a material benefit from it. The respondent was in a common-law relationship with the complainant, J.D., from 2004 to 2012, during which time he allegedly subjected her to physical and emotional abuse, forced her into prostitution, and controlled the proceeds.
+
+The trial judge acquitted the respondent, finding that the complainant's testimony lacked credibility and that there was a reasonable doubt about the respondent's ties to the prostitution enterprise. The majority of the Court of Appeal upheld the acquittals, but the dissenting judge would have ordered a new trial.
+
+The Supreme Court of Canada held that the trial judge erred in law by characterizing evidence of the respondent's violence and threats of violence as past discreditable conduct, which is generally inadmissible. This error hindered the trial judge's assessment of the evidence and diminished the evidentiary foundation relevant to the essential elements of the trafficking in persons offence.
+
+The Court also held that the trial judge failed to consider all the evidence, including the complainant's testimony and the evidence of other witnesses, which could have established the respondent's control, direction, or influence over the complainant's movements.
+
+The majority of the Court, led by Justice O'Bonsawin, concluded that the trial judge's error of law might have had a material bearing on the acquittals and that a new trial was necessary. Justices Côté and Rowe dissented, arguing that the trial judge's error did not have a material bearing on the acquittals and that the appeal should be dismissed.
+
+**Key Issues:**
+
+1. Whether the trial judge erred in law by characterizing evidence of the respondent's violence and threats of violence as past discreditable conduct.
+2. Whether the trial judge failed to consider all the evidence, including the complainant's testimony and the evidence of other witnesses.
+3. Whether the trial judge's error of law might have had a material bearing on the acquittals.
+
+**Key Holdings:**
+
+1. The trial judge erred in law by characterizing evidence of the respondent's violence and threats of violence as past discreditable conduct.
+2. The trial judge failed to consider all the evidence, including the complainant's testimony and the evidence of other witnesses.
+3. The trial judge's error of law might have had a material bearing on the acquittals, and a new trial is necessary.
+
+**Implications:**
+
+The decision highlights the importance of properly characterizing evidence in criminal trials and considering all relevant evidence when assessing the credibility of witnesses. It also emphasizes the need for trial judges to carefully assess the evidence and avoid making errors of law that could impact the outcome of the trial.

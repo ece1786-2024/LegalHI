@@ -1,0 +1,5 @@
+Prompt: "State the background of the case in one paragraph in the following document."
+
+Here is the background of the case in one paragraph:
+
+The complainant and the accused were in a common law relationship from 2004 to 2012, marked by violence, evictions, and financial difficulties. The complainant alleged that the accused suggested they have sex on a webcam for money, and she was unwilling to do this but agreed to avoid the accused's violence. She claimed that the accused persuaded her to dance for men and offer sexual services for money, and that she participated because of the accused's violence. The complainant also alleged that the accused was involved in posting ads offering sexual services and controlled all proceeds. The Crown charged the accused with trafficking in persons and receiving a material benefit from it under sections 279.01(1) and 279.02(1) of the Criminal Code.
