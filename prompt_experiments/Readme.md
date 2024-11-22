@@ -38,3 +38,12 @@ __Observation:__
 - 70b model also tends to include the prompt's instruction again in the generated output, which is unwanted for our project.
 
 __Conclusion:__ We should use multi-agent architecture, and the prompt for 70b model should be straightforward and contain less instructions.
+
+## Experiment 4: Combine Multi-agent results with LLM
+
+Result data in `multi_agent_llm_sum_results/`
+
+This experiment continues on the multi-agent approach. After facts, procedural history, and reasonings are generated and concatenated together, we use Llama-3 to generate the decision and issue from the concatenated results. Then, with Decision, Issue, Facts, Procedural History, and Reasoning all together, we ask the Llama-3 model to combine them to form the final output.
+
+__Observation__:
+- The comparison scores maintain the same, but the final output looks more similar to the human-written one.
