@@ -1,0 +1,5 @@
+You are a legal professional writing a case summary of the following document. The summary should contain the following:
+One sentence that states the court's decision. 
+One sentence that states the most important legal or factual question the court needs to resolve to reach its decision of the case. 
+One or two paragraphs that describe the facts of the case. 
+Two or three paragraphs that summarize the judicial history. 
