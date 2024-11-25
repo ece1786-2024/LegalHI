@@ -1,0 +1,19 @@
+**The Supreme Court sets aside acquittal and orders new trial in human trafficking case due to trial judge's error in assessing evidence of violent relationship.**
+
+**Introduction**
+This appeal concerns the central legal question of whether the trial judge erred in holding that evidence of a violent relationship between the accused and the complainant did not directly address the elements of the offences of trafficking in persons and receiving a material benefit from trafficking in persons.
+
+**Background**
+The complainant, J.D., alleged that her intimate partner, T.J.F. (the accused), trafficked her and received a material benefit from it, contrary to sections 279.01(1) and 279.02(1) of the Criminal Code. The complainant claimed that the accused suggested they have sex on a webcam for money, and she was unwilling to do this but agreed to avoid the accused's violence. She also claimed that the accused persuaded her to dance for men and to offer sexual services for money, and that she participated because of the accused's violence. The accused was charged with trafficking the complainant and receiving a material benefit from it. At trial, in addition to the complainant, five other witnesses testified, including the complainant's brother, mother, and daughter, and two of her friends. These other witnesses did not provide evidence of sexual services, but did provide evidence of the accused's violence towards the complainant. The trial judge acquitted the accused, finding that the complainant's testimony lacked credibility and that there was a reasonable doubt about the accused's ties to any prostitution enterprise.
+
+**Trial Process**
+The trial process in this case involved the presentation of evidence by the Crown and the defense, with the trial judge assessing the credibility of the witnesses and the relevance of the evidence to the charges. The trial judge's decision was based on their interpretation of the law and the evidence presented, and their reasoning was set out in their written judgment. The Crown appealed the acquittal, arguing that the trial judge had erred in their assessment of the evidence and the law.
+
+**Appellate and Supreme Court Decisions**
+The majority of the Court of Appeal upheld the acquittal, but the dissenting judge would have ordered a new trial. The Supreme Court of Canada ultimately allowed the appeal, set aside the acquittal, and ordered a new trial, finding that the trial judge had erred in their assessment of the evidence and the law. The majority held that the trial judge erred in law by characterizing evidence of the accused's violence towards the complainant as past discreditable conduct, which hindered his assessment of the evidence and diminished the evidentiary foundation relevant to the essential elements of the trafficking in persons offence.
+
+**Legal Principle**
+Evidence of regular violence and threats of violence by an accused against a victim, and their violent relationship, can be relevant and material to both the actus reus of the trafficking in persons offence and the definition of exploitation, and should not be characterized as past discreditable conduct evidence.
+
+**Conclusion**
+Writing for the majority, Justice O'Bonsawin concludes that the trial judge erred in law by mischaracterizing evidence of the accused's regular violence and threats of violence against the complainant as past discreditable conduct. This error tainted the trial judge's analysis of the evidence, leading to a misapprehension of the evidence. The majority holds that the Crown has established that the trial judge's reasonable doubts could have been resolved had the error of law not occurred, and therefore allows the appeal, sets aside the acquittals, and orders a new trial.
