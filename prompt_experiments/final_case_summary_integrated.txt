@@ -1,0 +1,19 @@
+**The Supreme Court Sets Aside Acquittals in Human Trafficking Case**
+
+This appeal raises the question of whether the trial judge erred in assessing evidence of regular violence and threats of violence by an accused towards a victim in a human trafficking case.
+
+**Background**
+
+The complainant (J.D.) and her common-law partner (T.J.F., also known as "the accused") were in a violent and controlling relationship from 2004 to 2012. The complainant alleged that she was forced into prostitution by the accused, who posted ads for her services on Craigslist and controlled all proceeds. The accused was charged with trafficking in persons (s. 279.01(1) of the Criminal Code) and receiving a material benefit from it (s. 279.02(1)). At trial, five other witnesses testified about their observations of violence between the couple, but did not provide direct evidence of prostitution or exploitation.
+
+**Court Proceedings**
+
+The trial judge acquitted the accused of trafficking in persons and receiving a material benefit from it, despite evidence of a violent relationship between the accused and the complainant. The Crown appealed, arguing that the trial judge erred in assessing some evidence based on a wrong legal principle by ruling that the accused's violence was past discreditable conduct. The majority of the Court of Appeal upheld the acquittals, but a dissenting judge would have ordered a new trial. On appeal to the Supreme Court, Justice O'Bonsawin found that the trial judge did indeed err in law by mischaracterizing evidence of regular violence and threats as past discreditable conduct, which hindered his assessment of essential elements of the offence. She concluded that this error might have had a material bearing on the acquittals and allowed the appeal, setting aside the verdicts and ordering a new trial.
+
+**Legal Principle**
+
+The Crown can establish the actus reus of human trafficking through evidence of regular violence and threats of violence by an accused towards a victim, and their violent relationship, if the effect of that violence is such that the victim's movements have been controlled, directed, or influenced.
+
+**Conclusion**
+
+Writing for the majority, Justice O'Bonsawin concludes that the trial judge erred in law by mischaracterizing evidence of regular violence and threats of violence by the accused against the complainant as past discreditable conduct. This error tainted his analysis of both the actus reus and mens rea, leading to a misapprehension of the evidence. The majority holds that this error might have had a material bearing on the acquittals, as it undermined the trial judge's credibility assessment of the complainant and failed to appreciate the interconnectedness between her evidence and that of other witnesses. The majority allows the appeal, sets aside the acquittals, and orders a new trial.
