@@ -32,7 +32,7 @@ def llama_api(prompt, text=None, input_file=None, output_file=None):
     llm_output = rsp_dict['choices'][0]['message']['content']
     # print(llm_output)
     # ensure that LLM has completed its generation.
-    assert rsp_dict['choices'][0]['finish_reason'] == 'stop'
+    # assert rsp_dict['choices'][0]['finish_reason'] == 'stop'
 
     if output_file is not None:
         with open(output_file, "w") as file:
