@@ -49,7 +49,7 @@ def gpt_eval(source, system_output):
                     # Take avg of multiple rsp
                     all_responses = [_response.choices[i].message.content for i in
                                     range(len(_response.choices))]
-                    print(all_responses)
+                    # print(all_responses)
                     int_rsps = []
                     for res in all_responses:
                         # GPT responses might not always follow exact format instructed by our prompt.
