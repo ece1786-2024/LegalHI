@@ -4,6 +4,7 @@ from score.score import calculate_bertscore, calculate_rouge
 import argparse
 import json
 import tqdm
+import re
 
 
 def main(input_filename, output_filename):
@@ -20,7 +21,17 @@ def main(input_filename, output_filename):
         new_json[k] = {}
         out_instance = new_json[k]
         out_instance['citation'] = citation
+        # estimate word count in original text
+        wc = 0
+        try:
+            # remove empty strings
+            words = list(filter(lambda w: len(w)>0, re.split(' |\n|\t', source)))
+            wc = len(words)
+        except:
+            print("failed to get word counts")
+        out_instance['document_word_count'] = wc
         out_instance['llama_summary'] = system_output
+        out_instance['original_summary'] = human_output
 
         nlp_scores = {}
         # 1. eval use traditional NLP scores
@@ -41,9 +52,8 @@ def main(input_filename, output_filename):
         nlp_scores['geval'] = gpt_eval(source, system_output)
         out_instance.update(nlp_scores)
 
-
-    with open(output_filename, 'w') as f:
-        json.dump(new_json, f, indent=4)
+        with open(output_filename, 'w') as f:
+            json.dump(new_json, f, indent=4)
 
     
 

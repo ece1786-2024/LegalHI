@@ -1,3 +1,9 @@
+'''
+Modified from the original source code of G-Eval: https://github.com/nlpyang/geval
+
+Reference: Liu, Y., Iter, D., Xu, Y., Wang, S., Xu, R., & Zhu, C. (2023, December). G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (pp. 2511-2522).
+'''
+
 import openai
 import json
 import argparse
@@ -40,11 +46,15 @@ def gpt_eval(source, system_output):
                     )
                     time.sleep(0.5)
 
+                    # Take avg of multiple rsp
                     all_responses = [_response.choices[i].message.content for i in
                                     range(len(_response.choices))]
                     print(all_responses)
                     int_rsps = []
                     for res in all_responses:
+                        # GPT responses might not always follow exact format instructed by our prompt.
+                        # Sometime contains nonsense texts
+                        # Disregard those responses
                         try:
                             int_rsps.append(int(res))
                         except:
