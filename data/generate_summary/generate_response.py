@@ -1,5 +1,6 @@
 import json
 from llamaapi import LlamaAPI
+import os
 
 def get_data(year):
     data_file = f"C:\study\ECE1786\project\summary_files\\{year}_data.json"
@@ -10,7 +11,7 @@ def get_data(year):
 
 def llama_api(prompt, text=None, input_file=None, output_file=None):
     # Initialize the SDK
-    str = "your_llamaApi_key"
+    str = os.environ['LLAMA_API_KEY']
     llama = LlamaAPI(str)
     if input_file is None:
         input_text = text
@@ -109,5 +110,3 @@ def generate_by_year(year):
         generate_data[i]["original_summary"] = data[i]["summary"]
         with open(output_file, "w") as f:
             json.dump(generate_data, f)
-
-generate_by_year(2024)
