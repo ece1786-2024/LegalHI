@@ -48,8 +48,8 @@ def main(input_filename, output_filename):
                 "recall": bert_r,
                 "f1": bert_f1
             }
-        # 2. eval using G-EVAL
-        nlp_scores['geval'] = gpt_eval(source, system_output)
+        # # 2. eval using G-EVAL
+        # nlp_scores['geval'] = gpt_eval(source, system_output)
         out_instance.update(nlp_scores)
 
         with open(output_filename, 'w') as f:
@@ -59,7 +59,7 @@ def main(input_filename, output_filename):
 
 if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
-    argparser.add_argument('--output_filename', type=str, default='results.json')
-    argparser.add_argument('--input_filename', type=str)
+    argparser.add_argument('-o', '--output_filename', type=str, default='results.json')
+    argparser.add_argument('-i', '--input_filename', type=str)
     args = argparser.parse_args()
     main(args.input_filename, args.output_filename)
