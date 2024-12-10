@@ -1,4 +1,3 @@
-from gpt_eval.gpt4_eval import gpt_eval
 from score.score import calculate_bertscore, calculate_rouge
 
 import argparse
@@ -34,7 +33,7 @@ def main(input_filename, output_filename):
         out_instance['original_summary'] = human_output
 
         nlp_scores = {}
-        # 1. eval use traditional NLP scores
+        # eval use traditional NLP scores
         rouge_scores = calculate_rouge(reference=human_output, generated=system_output)
         for metric, score in rouge_scores.items():
             nlp_scores[metric] = {
@@ -48,8 +47,6 @@ def main(input_filename, output_filename):
                 "recall": bert_r,
                 "f1": bert_f1
             }
-        # # 2. eval using G-EVAL
-        # nlp_scores['geval'] = gpt_eval(source, system_output)
         out_instance.update(nlp_scores)
 
         with open(output_filename, 'w') as f:
