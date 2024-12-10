@@ -1,4 +1,4 @@
-# LegalHI
+# Legal HI
 
 ## Usage
 
@@ -9,5 +9,7 @@ export LLAMA_API_KEY=<your api key>
 
 Run the Legal HI app script to generate
 ```
-python legalhi_app.py <your input document as .txt file>
+python legal_hi.py <your input document as .txt file>
 ```
+
+You can use the example input here: `prompt_experiments/example_input.txt`
