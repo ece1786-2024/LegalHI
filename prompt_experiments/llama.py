@@ -5,7 +5,7 @@ import os
 def llama_api(prompt, text=None, input_file=None, output_file=None):
 
     # Initialize the SDK
-    key = "LA-cafe700b5f334e16a6a1d5d07d8b76f16e4b01be7fc640e2a9e1847bb5796840"
+    key = "<Llama key>"
     llama = LlamaAPI(key)
 
     if input_file is None:
