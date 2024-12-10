@@ -1,6 +1,6 @@
 import argparse
 
-from data.generate_summary.generate_response import generate_response_llama
+from architecture.model import legal_summary
 
 def main(args):
     in_file = args.input_filename
@@ -10,7 +10,7 @@ def main(args):
         input_text = f_in.read()
     
     print("Generating summary...")
-    gen_summary = generate_response_llama(input_text)
+    gen_summary = legal_summary(input_text)
 
     try:
         with open(out_file, "w") as f_out:
